@@ -7,4 +7,3 @@ I'm Junior Data Scientist and ML-engineer
 - 💬 Ask me about my experience, if it will be interesting for you.
 - 📫 How to reach me: Telegram: @fake322; Email: f4ke322@yandex.ru
 - ⚡ Fun fact: DS and Ml are not a job for me, but a life's work. :heartpulse:
--->
