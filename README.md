@@ -1,4 +1,4 @@
-## Hi there, Im Maxim Aleynikov aka Fake322 👋
+## Hi there, Im Maxim Aleynikov 👋
 
 #### I'm Junior Data Scientist and ML-engineer
 
