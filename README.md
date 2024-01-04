@@ -1,6 +1,6 @@
 ## Hi there, Im Maxim Aleynikov 👋
 
-#### I'm Junior Data Scientist and ML-engineer
+#### I'm Data Scientist and ML-engineer
 
 - 🔭 I’m currently working on parabolic model for good exit from trade in finance structure.
 - 🌱 I’m currently learning Python and other cool tools for upgrade myself. In the distant future I want to learn C++, becouse it's most interesting and useful tool for ML-engineer. At least I believe in it 😃
